@@ -1,16 +1,48 @@
-### Hi there 👋
+# Ahmad Hassan
+## Full-stack Web Developer 🚀
 
-<!--
-**hassan-a2h/hassan-a2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about crafting digital experiences and solving real-world problems through code. I believe in continuous learning and staying curious. Let's turn ideas into reality!
 
-Here are some ideas to get you started:
+**Contact:**
+- 📧 Email: a2h.ahmadhassan@gmail.com
+- 📱 Phone: 03074458729
+- 💼 LinkedIn: [linkedin.com/in/a2hassan](https://linkedin.com/in/a2hassan)
+- 🐙 GitHub: [github.com/hassan-a2h](https://github.com/hassan-a2h)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- **Frontend:** ReactJS, HTML, CSS, TailwindCSS
+- **Backend:** NodeJS, ExpressJS, Ruby on Rails
+- **Database:** MongoDB, PostgreSQL
+- **Other Technologies:** React Router, React Hooks, Ruby, Rust, C++, Neovim
+
+## Experience
+### Associate Software Engineer at Devsinc (03/2022 - 02/2023)
+- Spearheaded development and maintenance of web applications using Ruby on Rails.
+- Designed and implemented RESTful APIs, ensuring efficient and scalable solutions.
+- Collaborated with cross-functional teams to design, implement, and launch new features.
+
+## Freelance Experience
+### Fiverr (02/2020 - Present)
+- Developed and maintained responsive, cross-browser compatible websites using HTML and CSS.
+- Improved website accessibility features for enhanced user engagement.
+
+## Projects
+### Online Exam System (01/2023 - 02/2023)
+- Developed an invite-based online exam system using Ruby on Rails, PostgreSQL, AWS S3, and Bootstrap.
+- Received positive feedback with a user satisfaction score of 7 out of 10.
+
+### E-commerce App (10/2023 - Present)
+- Developing a mock online store with ReactJS, React Hooks, and React Router.
+- Implemented the app as a Single Page Application (SPA) for enhanced performance.
+
+## Education
+- Bachelor in Computer Science, FAST NUCES CFD-Campus, 08/2018 - 12/2022
+
+## Interests
+- Reading Books
+- Watching Anime
+- Journal Writing
+- Podcasts
+- Gaming
+
+If you're passionate about technology and looking to collaborate on exciting projects, let's connect and create something amazing together!
