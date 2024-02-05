@@ -5,9 +5,7 @@ Passionate about crafting digital experiences and solving real-world problems th
 
 **Contact:**
 - 📧 Email: a2h.ahmadhassan@gmail.com
-- 📱 Phone: 03074458729
 - 💼 LinkedIn: [linkedin.com/in/a2hassan](https://linkedin.com/in/a2hassan)
-- 🐙 GitHub: [github.com/hassan-a2h](https://github.com/hassan-a2h)
 
 **Skills:**
 - **Frontend:** ReactJS, HTML, CSS, TailwindCSS
